@@ -1,10 +1,7 @@
-/vendor
-/.idea
-/build
-composer.lock
-.phpunit.result.cache
-coverage
-.php_cs.cache
-/node_modules
-package-lock.json
-/bower_components
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
